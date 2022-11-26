@@ -6,7 +6,7 @@ NEWS SYSTEM.
 THIS THING CAN     
 OUTPUT 19          
 CHARACTERS OF      
-INFO!               
+INFO!              
 THIS IS THE 10TH,   
 NOW 11TH LINE!      
 NEATO!              
